@@ -24,7 +24,7 @@ COLOR_CODE = {
 GLOBAL_SOFT_INFO = {
     "AUTHOR":"Rohit Alderson",
     "AUTHOR_LINK": "t.me/Rohit_Alderson",
-    "SOFT_ORIGINAL_LINK": "  ",
+    "SOFT_ORIGINAL_LINK": "https://github.com/MagaPavel/Show-MetaFREE.git",
     "SOFT_ORIGINAL_CHANNEL": "t.me/show-meta",
     "SOFT_VERSION": "0.3",
     "BLOCKED_COUNTRIES": ["Ukraine"]}
