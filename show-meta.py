@@ -14,7 +14,7 @@ try:
     from time import sleep
     import requests, bs4
 
-if __name__ == "__main"__:
+if __name__ == "__main__":
     # Показ текст соглашении
     print_welcome_text()
 
