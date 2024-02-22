@@ -3,18 +3,16 @@
 # АВТОР: Rohit Alderson
 # DATE: Thursday, 21 February 2024 г. 03:39:15 (+03)
 
+from src.config import COLOR_CODE, GLOBAL_SOFT_INFO, print_banner, print_welcome_text
+from src.httpweb_number import HttpWebNumber
+from src.blocked_countries import BlockedCountries
+from src.update.update import Update
+from src.noblack_auto import print_noblack_auto_text
+from time import sleep
+import requests
+import bs4
 
-try:
-    # Проверка на наличие модулей
-    from src.config import COLOR_CODE, GLOBAL_SOFT_INFO, print_banner, print_welcome_text
-    from src.httpweb_number import HttpWebNumber
-    from src.blocked_countries import BlockedCountries
-    from src.update.update import Update
-    from src.noblack_auto import print_noblack_auto_text
-    from time import sleep
-    import requests, bs4
-
-if __name__ == "__main__":
+if name == "main":
     # Показ текст соглашении
     print_welcome_text()
 
