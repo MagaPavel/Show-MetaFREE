@@ -37,13 +37,13 @@
 4. pkg install openssl
 5. pip install requests bs4 
 6. git clone https://github.com/MagaPavel/Show-MetaFREE.git
-7. cd show-meta
+7. cd Show-MetaFREE
 8. python3 show-meta.py
 ```
 
 ##### ИЛИ МОЖЕТЕ СКОПИРОВАТЬ ЭТО, И ВСТАВИТЬ. 
 ```Bash
-pkg update -y && upgrade -y && pkg install git -y python3 -y && pkg install python3-pip && pkg install openssl && pip install requests bs4 && git clone https://github.com/MagaPavel/Show-MetaFREE && cd show-meta && python3 show-meta.py
+pkg update -y && upgrade -y && pkg install git -y python3 -y && pkg install python3-pip && pkg install openssl && pip install requests bs4 && git clone https://github.com/MagaPavel/Show-MetaFREE && cd Show-MetaFREE && python3 show-meta.py
 ```
 ---
 ## **💻 Linux:**
@@ -52,11 +52,11 @@ pkg update -y && upgrade -y && pkg install git -y python3 -y && pkg install pyth
 2. sudo apt-get install python3
 3. pip3 install requests bs4 
 4. git clone https://github.com/MagaPavel/Show-MetaFREE.git
-5. cd show-meta
+5. cd Show-MetaFREE
 6. python3 show-meta.py
 ```
 
 ##### ИЛИ МОЖЕТЕ СКОПИРОВАТЬ ЭТО, И ВСТАВИТЬ. 
 ```Bash
-sudo apt-get install git && sudo apt-get install python3 && pip3 install requests bs4 && git clone https://github.com/MagaPavel/Show-MetaFREE && cd show-meta && python3 show-meta.py
+sudo apt-get install git && sudo apt-get install python3 && pip3 install requests bs4 && git clone https://github.com/MagaPavel/Show-MetaFREE && cd Show-MetaFREE && python3 show-meta.py
 ```
