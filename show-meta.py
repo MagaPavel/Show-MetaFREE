@@ -11,7 +11,7 @@ from src.noblack_auto import print_noblack_auto_text
 from time import sleep
 import requests, bs4
 
-if name == "main":
+if __name__ == "__main__":
     # Показ текст соглашении
     print_welcome_text()
 
